@@ -1,5 +1,7 @@
 import threading 
 from threading import*
+#by using threading module you can access multiple threads
+
 import time
 
 #'dic' is the dictionary in which we store data
